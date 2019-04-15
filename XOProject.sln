@@ -17,9 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XOProject.Services.Tests", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XOProject.Repository.Tests", "UnitTests\XOProject.Repository.Tests\XOProject.Repository.Tests.csproj", "{97380706-8987-4C3F-AA3D-1D3AF28021A0}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E1C648BE-F532-45DD-A145-50293B5AF054}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F98794A1-D5D6-4FBF-8550-414DAD763A8A}"
 	ProjectSection(SolutionItems) = preProject
-		Readme.txt = Readme.txt
+		ReadMe.md = ReadMe.md
 	EndProjectSection
 EndProject
 Global
